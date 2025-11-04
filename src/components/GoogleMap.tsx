@@ -20,7 +20,7 @@ export default function GoogleMap() {
           window.open(directionsUrl, '_blank')
           setIsGettingDirections(false)
         },
-        (error) => {
+        (error) => { 
           console.error('Error getting location:', error)
           // Fallback: Open directions without current location
           window.open(`https://www.google.com/maps/dir//11.139624,76.936639`, '_blank')
