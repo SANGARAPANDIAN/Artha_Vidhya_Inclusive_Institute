@@ -63,7 +63,7 @@ export default function About() {
                 </h2>
               </div>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                To create an inclusive society where physically and mentally disabled individuals 
+                To create an inclusive society where individuals with intellectual and developmental disabilities
                 have equal opportunities to develop skills, gain employment, and achieve sustainable 
                 livelihoods through comprehensive vocational training and support.
               </p>
