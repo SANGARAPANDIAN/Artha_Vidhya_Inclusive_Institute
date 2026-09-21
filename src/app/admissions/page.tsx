@@ -173,7 +173,7 @@ export default function Admissions() {
               Who Can Apply
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-              Our inclusive programs are specifically designed for individuals with physical and mental disabilities.
+              Our inclusive programs are specifically designed for individuals with intellectual and developmental disabilities.
             </p>
           </motion.div>
 

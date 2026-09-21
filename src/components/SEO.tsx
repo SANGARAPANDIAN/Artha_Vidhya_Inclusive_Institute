@@ -22,7 +22,7 @@ export default function SEO({
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "Artha Vidhya Inclusive Institute for Skill Development and Sustainable Livelihoods",
-    "description": "Inclusive skill-based training institute ensuring independent, sustained living for physically and mentally disabled students",
+    "description": "Inclusive skill-based training institute ensuring independent, sustained living for students with intellectual and developmental disabilities",
     "url": "https://arthavidhya.org",
     "telephone": ["+91-8637692101", "+91-9629199942", "+91-9843333824"],
     "address": {
@@ -34,7 +34,7 @@ export default function SEO({
     "offers": {
       "@type": "EducationalOccupationalProgram",
       "name": "Inclusive Skill Development Programs",
-      "description": "Specialized training programs for physically and mentally disabled students"
+      "description": "Specialized training programs for students with intellectual and developmental disabilities"
     }
   }
 

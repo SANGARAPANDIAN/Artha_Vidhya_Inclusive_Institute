@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     default: "Artha Vidhya Inclusive Institute for Skill Development and Sustainable Livelihoods",
     template: "%s - Artha Vidhya Inclusive Institute"
   },
-  description: "Inclusive skill-based training institute ensuring independent, sustained living for physically and mentally disabled students. Offering comprehensive skill development programs.",
+  description: "Inclusive skill-based training institute ensuring independent, sustained living for students with intellectual and developmental disabilities. Offering comprehensive skill development programs.",
   keywords: ["inclusive education", "skill development", "disability training", "sustainable livelihoods", "vocational training"],
   authors: [{ name: "Artha Vidhya Inclusive Institute" }],
   creator: "Artha Vidhya Inclusive Institute",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     url: 'https://arthavidhya.org',
     siteName: 'Artha Vidhya Inclusive Institute',
     title: 'Artha Vidhya Inclusive Institute for Skill Development and Sustainable Livelihoods',
-    description: 'Inclusive skill-based training institute ensuring independent, sustained living for physically and mentally disabled students.',
+    description: 'Inclusive skill-based training institute ensuring independent, sustained living for students with intellectual and developmental disabilities.',
     images: [
       {
         url: '/og-image.jpg',
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Artha Vidhya Inclusive Institute',
-    description: 'Inclusive skill-based training institute ensuring independent, sustained living for physically and mentally disabled students.',
+    description: 'Inclusive skill-based training institute ensuring independent, sustained living for students with intellectual and developmental disabilities.',
     images: ['/og-image.jpg'],
   },
   robots: {

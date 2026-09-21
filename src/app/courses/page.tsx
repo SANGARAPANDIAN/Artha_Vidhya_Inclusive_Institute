@@ -93,7 +93,7 @@ export default function Courses() {
             >
               <p className="text-lg text-gray-700 leading-relaxed">
                 All courses are specifically designed to be inclusive and accessible, 
-                with adaptive learning approaches for physically and mentally disabled students.
+                with adaptive learning approaches for students with intellectual and developmental disabilities.
               </p>
             </motion.div>
           </div>
@@ -213,7 +213,7 @@ export default function Courses() {
               Ready to Begin Your Learning Journey?
             </h2>
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-              All courses are open to physically and mentally disabled students. 
+              All courses are open to students with intellectual and developmental disabilities.
               We provide the necessary accommodations and support to ensure your success.
             </p>
             
